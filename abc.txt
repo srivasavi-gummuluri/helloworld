@@ -1,1 +1,1 @@
-this is text from main
+this is a sample text file
